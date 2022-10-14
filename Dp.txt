@@ -1,1 +1,4 @@
 cyberpunk 1234
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<h1>Cyber Punk - Real world!</h1>);
